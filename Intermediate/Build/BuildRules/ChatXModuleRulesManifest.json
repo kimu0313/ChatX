@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal_project\\ChatX\\Source\\ChatX\\ChatX.Build.cs",
+		"C:\\Unreal_project\\ChatX\\Source\\ChatX.Target.cs",
+		"C:\\Unreal_project\\ChatX\\Source\\ChatXEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
