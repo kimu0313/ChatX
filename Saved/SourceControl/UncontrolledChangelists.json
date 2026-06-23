@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Unreal_project/ChatX/Content/ChatX/Maps/Chatting.umap"
+				"C:/Unreal_project/ChatX/Content/ChatX/Maps/Chatting.umap",
+				"C:/Unreal_project/ChatX/Content/ChatX/Blueprint/Game/BP_GameModeBase.uasset",
+				"C:/Unreal_project/ChatX/Content/ChatX/Blueprint/Player/BP_PlayerController.uasset",
+				"C:/Unreal_project/ChatX/Content/ChatX/Blueprint/UI/WBP_ChatInput.uasset",
+				"C:/Unreal_project/ChatX/Content/ChatX/Blueprint/UI/WBP_NotificationText.uasset"
 			]
 		}
 	]

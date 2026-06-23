@@ -76,7 +76,6 @@ template<> CHATX_API UClass* StaticClass<ACXGameModeBase>()
 {
 	return ACXGameModeBase::StaticClass();
 }
-ACXGameModeBase::ACXGameModeBase(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 DEFINE_VTABLE_PTR_HELPER_CTOR(ACXGameModeBase);
 ACXGameModeBase::~ACXGameModeBase() {}
 // End Class ACXGameModeBase

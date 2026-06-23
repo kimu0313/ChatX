@@ -13,6 +13,9 @@ public class ChatX : ModuleRules
 			// Initial Dependencies
 			"Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput",
 
+            // UI
+            "UMG", "Slate", "SlateCore",
+
         });
 
         PrivateDependencyModuleNames.AddRange(new string[] { });
